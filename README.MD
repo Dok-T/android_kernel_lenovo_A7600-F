@@ -1,2 +1,2 @@
-<h1>dokmod Kernel source for Lenovo A7600F.</h1>
+<h1>Original Hardware Maintenance Manual for Lenovo A7600F.</h1>
 
