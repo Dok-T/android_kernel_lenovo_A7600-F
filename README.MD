@@ -1,2 +1,2 @@
-<h1>dokmod Kernel source for Lenovo A7600F.</h1>
+<h1>Stock JellyBean kernel source for Lenovo A7600-F</h1>
 
