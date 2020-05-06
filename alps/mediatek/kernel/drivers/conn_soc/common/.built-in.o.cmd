@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/conn_soc/common/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/kernel/drivers/conn_soc/common/built-in.o mediatek/kernel/drivers/conn_soc/common/platform/alps/mtk_wcn_consys_stub_alps.o 

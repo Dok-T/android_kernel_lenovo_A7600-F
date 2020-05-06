@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6582/kernel/drivers/btif/btif_hal.o := arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/platform/mt6582/kernel/drivers/btif/btif_hal.o mediatek/platform/mt6582/kernel/drivers/btif/hal_btif.o mediatek/platform/mt6582/kernel/drivers/btif/hal_btif_dma.o 

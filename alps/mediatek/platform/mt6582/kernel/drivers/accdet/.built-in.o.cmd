@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6582/kernel/drivers/accdet/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/platform/mt6582/kernel/drivers/accdet/built-in.o mediatek/platform/mt6582/kernel/drivers/accdet/accdet.o mediatek/platform/mt6582/kernel/drivers/accdet/accdet_irq.o 

@@ -1,0 +1,15 @@
+#ifndef _CUST_EXT_FG_DEFS_H_
+#define _CUST_EXT_FG_DEFS_H_
+
+typedef enum
+{
+	EXT_FG_CMD_SOC,
+	EXT_FG_CMD_TEMPERATURE,	
+
+	EXT_FG_CMD_NUMBER
+} EXT_FG_CTRL_CMD;
+
+#define EXT_FG_HAS_SOC
+#define EXT_FG_HAS_TEMPERATURE
+
+#endif /* _CUST_EXT_FG_DEFS_H_ */ 
